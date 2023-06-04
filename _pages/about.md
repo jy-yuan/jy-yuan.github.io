@@ -19,13 +19,25 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-## About me
+### About me
 
 I’m Jiayi Yuan (袁加熠, [dʒa-ˈi:]), a first-year Ph.D. student from the Department of Computer Science at [Rice University](https://www.rice.edu/), advised by Dr. [Xia “Ben” Hu](https://cs.rice.edu/~xh37/index.html). My research interests include efficient machine learning, and its applications in computer vision, natural language processing and healthcare.
 
 Previously, I received my bachelor’s degree in computer science from [Tsinghua University](https://www.tsinghua.edu.cn/). I lived in Beijing for 22 years and in Houston for $YEAR - 2022 year(s).
 
 Email: jy101 at rice dot edu
+
+### Education
+
+* Ph.D. in Computer Science, 2022 - now.  
+Rice University, TX, USA
+
+* B.Eng. in Computer Science and Engineering, 2017 - 2021.  
+Tsinghua University, Beijing, China
+
+### Publications
+
+Please refer to [publications](https://jy-yuan.github.io/publications/).
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
