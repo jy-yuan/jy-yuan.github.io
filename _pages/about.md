@@ -32,7 +32,7 @@ Email: jy101 at rice dot edu
 * Ph.D. in Computer Science, 2022 - now.  
 Rice University, TX, USA
 
-* B.Eng. in Computer Science and Engineering, 2017 - 2021.  
+* B.Eng. in Computer Science and Technology, 2017 - 2021.  
 Tsinghua University, Beijing, China
 
 ### Publications
