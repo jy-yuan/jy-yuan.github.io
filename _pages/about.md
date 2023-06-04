@@ -35,6 +35,16 @@ Rice University, TX, USA
 * B.Eng. in Computer Science and Technology, 2017 - 2021.  
 Tsinghua University, Beijing, China
 
+### News
+
+- Mar. 2023: One paper accepted by ISCA 2023
+
+- Feb. 2023: One paper accepted by ICASSP 2023
+
+- Feb. 2023: Two papers accepted by DAC 2023
+
+- Jan. 2023: EyeCoD selected as an IEEE Micro Top Pick 2023
+
 ### Publications
 
 Please refer to [publications](https://jy-yuan.github.io/publications/).
