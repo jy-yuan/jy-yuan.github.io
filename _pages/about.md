@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Rice University</a>. Houston, TX. jy101 at rice dot edu
+subtitle: Rice University. Houston, TX. jy101 at rice dot edu
 
 profile:
   align: right
@@ -16,12 +16,12 @@ profile:
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false  # includes social icons at the bottom of the page
+social: true  # includes social icons at the bottom of the page
 ---
 
-I’m Jiayi Yuan (袁加熠, [dʒa-ˈi:]), a Computer Science Ph.D. student at Rice University advised by Dr. [Xia “Ben” Hu](https://cs.rice.edu/~xh37/index.html). My research interest is efficient machine learning, along with its applications in computer vision, natural language processing and healthcare.
+I’m Jiayi Yuan (袁加熠, [dʒa-ˈi:]), a Computer Science Ph.D. student at [Rice University](https://www.rice.edu/) advised by Dr. [Xia “Ben” Hu](https://cs.rice.edu/~xh37/index.html). My research interest is efficient machine learning, along with its applications in computer vision, natural language processing and healthcare.
 
-Previously, I received my bachelor’s in computer science from Tsinghua University. I lived in Beijing for 22 years and in Houston for ($YEAR - 2022) year(s).
+Previously, I received my bachelor’s in computer science from [Tsinghua University](https://www.tsinghua.edu.cn/). I lived in Beijing for 22 years and in Houston for $YEAR - 2022 year(s).
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
