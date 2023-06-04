@@ -19,7 +19,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-**About me**
+&nbsp;
+
+## About me
 
 I’m Jiayi Yuan (袁加熠, [dʒa-ˈi:]), a first-year Ph.D. student from the Department of Computer Science at [Rice University](https://www.rice.edu/), advised by Dr. [Xia “Ben” Hu](https://cs.rice.edu/~xh37/index.html). My research interests include efficient machine learning, and its applications in computer vision, natural language processing and healthcare.
 
