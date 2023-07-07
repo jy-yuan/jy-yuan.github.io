@@ -37,6 +37,8 @@ Tsinghua University, Beijing, China
 
 ### News
 
+- Jul. 2023: Two papers accepted by AMIA 2023
+
 - Mar. 2023: One paper accepted by ISCA 2023
 
 - Feb. 2023: One paper accepted by ICASSP 2023
@@ -44,6 +46,8 @@ Tsinghua University, Beijing, China
 - Feb. 2023: Two papers accepted by DAC 2023
 
 - Jan. 2023: EyeCoD selected as an IEEE Micro Top Pick 2023
+
+- ...
 
 ### Publications
 
