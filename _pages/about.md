@@ -21,7 +21,7 @@ social: true  # includes social icons at the bottom of the page
 
 ### About me
 
-I’m Jiayi Yuan (袁加熠, [dʒa-ˈi:]), a first-year Ph.D. student from the Department of Computer Science at [Rice University](https://www.rice.edu/), advised by Dr. [Xia “Ben” Hu](https://cs.rice.edu/~xh37/index.html). My research interests include **efficient and trustworthy machine learning**, and its applications in computer vision, natural language processing and healthcare.
+I’m Jiayi Yuan ([dʒa-ˈi:], 袁加熠), a Ph.D. student from the Department of Computer Science at [Rice University](https://www.rice.edu/), advised by Dr. [Xia "Ben" Hu](https://cs.rice.edu/~xh37/index.html). My research interests include **efficient and trustworthy machine learning**, and its applications in natural language processing, computer vision and healthcare.
 
 Previously, I received my bachelor’s degree in computer science from [Tsinghua University](https://www.tsinghua.edu.cn/), where I also studied statistics (minor). 
 
@@ -39,9 +39,9 @@ Tsinghua University, Beijing, China
 
 ### News
 
-- Jul. 2023: One paper accepted by ACM-BCB 2023
-
 - Jul. 2023: Two papers accepted by AMIA 2023
+
+- Jul. 2023: One paper accepted by ACM-BCB 2023
 
 - Mar. 2023: One paper accepted by ISCA 2023
 
