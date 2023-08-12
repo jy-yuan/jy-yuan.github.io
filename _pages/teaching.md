@@ -19,7 +19,9 @@ Minor in Statistics
 ### Internship
 
 * Research Engineer Intern at Baidu Inc., 2021.  
-Topic: fingerprinting algorithms on massive multimodal data
+Topic: Fingerprint algorithms on massive multimodal data
+
+<!-- ### Teaching -->
 
 ### Service
 
