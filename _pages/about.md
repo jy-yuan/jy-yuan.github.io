@@ -21,11 +21,11 @@ social: true  # includes social icons at the bottom of the page
 
 ### About me
 
-I’m Jiayi Yuan ([dʒa-ˈi:], 袁加熠), a Ph.D. student from the Department of Computer Science at [Rice University](https://www.rice.edu/), advised by Dr. [Xia "Ben" Hu](https://cs.rice.edu/~xh37/index.html). My research interests include **efficient and trustworthy machine learning**, and its applications in natural language processing, computer vision and healthcare.
+I’m Jiayi Yuan ([dʒa-ˈi:], 袁加熠), a Ph.D. student from the Department of [Computer Science at Rice University](https://cs.rice.edu/), advised by Dr. [Xia "Ben" Hu](https://cs.rice.edu/~xh37/index.html). My research interests include **efficient and trustworthy machine learning**, and the applications in natural language processing, computer vision and healthcare.
 
-Previously, I received my bachelor’s degree in computer science from [Tsinghua University](https://www.tsinghua.edu.cn/), where I also studied statistics (minor). 
+Previously, I received my bachelor’s degree in computer science from [Tsinghua University](https://www.tsinghua.edu.cn/en/), where I also studied statistics (minor). 
 
-I lived in Beijing for 22 years and in Houston for $YEAR - 2022 year(s).
+I lived in Beijing for 22 years and in Houston for ``$YEAR-2022`` year(s).
 
 Email: jy101 at rice dot edu
 
