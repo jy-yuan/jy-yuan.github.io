@@ -23,7 +23,7 @@ social: true  # includes social icons at the bottom of the page
 
 I’m Jiayi Yuan ([dʒa-ˈi:], 袁加熠), a Ph.D. student from the Department of [Computer Science at Rice University](https://cs.rice.edu/), advised by Dr. [Xia "Ben" Hu](https://cs.rice.edu/~xh37/index.html). My research interests include **efficient and trustworthy machine learning**, and the applications in natural language processing, computer vision and health informatics.
 
-Previously, I received my bachelor’s degree in computer science from [Tsinghua University](https://www.tsinghua.edu.cn/en/), where I also studied statistics (minor). 
+Previously, I received my bachelor’s degree in computer science from [Tsinghua University](https://www.tsinghua.edu.cn/en/), where I also studied statistics as a minor.
 
 I lived in Beijing for 22 years and in Houston for ``$YEAR-2022`` year(s).
 
@@ -41,13 +41,15 @@ Tsinghua University, Beijing, China
 
 - Sep. 2023: One paper accepted by NeurIPS 2023
 
+- Sep. 2023: Joined [Microsoft Accelerating Foundation Models Research](https://www.microsoft.com/en-us/research/collaboration/accelerating-foundation-models-research/) program and got $20K Grant
+
 - Jul. 2023: Two papers accepted by AMIA 2023
 
-- Jul. 2023: One paper accepted by ACM-BCB 2023
+<!-- - Jul. 2023: One paper accepted by ACM-BCB 2023 -->
 
 - Mar. 2023: One paper accepted by ISCA 2023
 
-- Feb. 2023: One paper accepted by ICASSP 2023
+<!-- - Feb. 2023: One paper accepted by ICASSP 2023 -->
 
 - Feb. 2023: Two papers accepted by DAC 2023
 
