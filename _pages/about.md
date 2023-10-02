@@ -43,7 +43,7 @@ Tsinghua University, Beijing, China
 
 - Sep. 2023: Joined [Microsoft Accelerating Foundation Models Research](https://www.microsoft.com/en-us/research/collaboration/accelerating-foundation-models-research/) program and got $20K Grant
 
-- Jul. 2023: Two papers accepted by AMIA 2023
+- Jul. 2023: Two papers accepted by AMIA 2023, one is selected as a <span style="color:red"> best student paper finalist </span>
 
 <!-- - Jul. 2023: One paper accepted by ACM-BCB 2023 -->
 
