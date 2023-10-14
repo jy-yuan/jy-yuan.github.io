@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: IMG_6547.JPG
+  image: IMG_6547-min.JPG
   image_circular: false # crops the image to make it circular
   address: >
     <p>Duncan Hall, 3014</p>
@@ -27,21 +27,21 @@ Previously, I received my bachelor’s degree in computer science from [Tsinghua
 
 I lived in Beijing for 22 years and in Houston for ``$YEAR-2022`` year(s).
 
-Email: jy101 at rice dot edu
+Email: jy101 [at] rice [dot] edu
 
 ### Education
 
-* Ph.D. in Computer Science, 2022 - now.  
+* Ph.D. in Computer Science, 2022 - now.
 Rice University, TX, USA
 
-* B.Eng. in Computer Science and Technology, 2017 - 2021.  
+* B.Eng. in Computer Science and Technology, 2017 - 2021.
 Tsinghua University, Beijing, China
 
 ### News
 
 - Sep. 2023: One paper accepted by NeurIPS 2023
 
-- Sep. 2023: Joined [Microsoft Accelerating Foundation Models Research](https://www.microsoft.com/en-us/research/collaboration/accelerating-foundation-models-research/) program and got $20K Grant
+- Sep. 2023: Joined [Microsoft Accelerating Foundation Models Research](https://www.microsoft.com/en-us/research/collaboration/accelerating-foundation-models-research/) program
 
 - Jul. 2023: Two papers accepted by AMIA 2023, one is selected as a <span style="color:red"> best student paper finalist </span>
 
