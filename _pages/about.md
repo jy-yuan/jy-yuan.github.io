@@ -39,13 +39,15 @@ Tsinghua University, Beijing, China
 
 ### News
 
+- Nov. 2023: Our LLM-PTM paper is selected as a best student paper at AMIA 2023
+
 - Oct. 2023: [Rice CS' Xia Ben Hu investigates LLMs and likely applications](https://cs.rice.edu/news/rice-cs-xia-ben-hu-investigates-llms-and-likely-applications)
 
 - Sep. 2023: One paper accepted by NeurIPS 2023
 
 - Sep. 2023: Joined [Microsoft Accelerating Foundation Models Research](https://www.microsoft.com/en-us/research/collaboration/accelerating-foundation-models-research/) program
 
-- Jul. 2023: Two papers accepted by AMIA 2023, one is selected as a <span style="color:red"> best student paper finalist </span>
+- Jul. 2023: Two papers accepted by AMIA 2023
 
 <!-- - Jul. 2023: One paper accepted by ACM-BCB 2023 -->
 
