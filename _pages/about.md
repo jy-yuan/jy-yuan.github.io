@@ -21,15 +21,13 @@ social: true  # includes social icons at the bottom of the page
 
 ### About me
 
-I’m Jiayi Yuan ([dʒa-ˈi:], 袁加熠), a Ph.D. student from the Department of [Computer Science at Rice University](https://cs.rice.edu/), advised by Dr. [Xia "Ben" Hu](https://cs.rice.edu/~xh37/index.html). My research interests include **efficient and trustworthy machine learning**, and its applications in natural language processing, computer vision, and health informatics.
+I’m Jiayi Yuan ([dʒa-ˈi:], 袁加熠), a Ph.D. student from the Department of [Computer Science at Rice University](https://cs.rice.edu/), advised by Dr. [Xia "Ben" Hu](https://cs.rice.edu/~xh37/index.html). My research interests include **efficient and trustworthy machine learning**, and its applications in natural language processing, computer vision, and health informatics. Recently, I have been fully focused on **large language models (LLMs)**.
 
 Previously, I received my bachelor’s degree in computer science from [Tsinghua University](https://www.tsinghua.edu.cn/en/), where I also studied statistics as a minor.
 
 I lived in Beijing for 22 years and in Houston for ``$YEAR-2022`` year(s).
 
 Email: jy101 [at] rice [dot] edu
-
-<span style="color:red">I am actively seeking a research internship position for Summer 2024.</span>
 
 ### Education
 
