@@ -25,5 +25,12 @@ Topic: Fingerprint algorithms on massive multimodal data
 
 ### Service
 
+* Guest Lecturer:
+COMP 631 Introduction to Information Retrieval, Spring 2024
+COMP 640 Graduate Research Seminar in Machine Learning, Fall 2023
+
+* Teaching Assistant:
+COMP 631 Introduction to Information Retrieval, Spring 2024
+
 * Program Committee Members:  
-ICHI 2023
+ICHI 2023, 2024

@@ -21,7 +21,7 @@ social: true  # includes social icons at the bottom of the page
 
 ### About me
 
-I’m Jiayi Yuan ([dʒa-ˈi:], 袁加熠), a Ph.D. student from the Department of [Computer Science at Rice University](https://cs.rice.edu/), advised by Dr. [Xia "Ben" Hu](https://cs.rice.edu/~xh37/index.html). My research interests include **efficient and trustworthy machine learning**, and its applications in natural language processing, computer vision, and health informatics. Recently, I have been fully focused on **large language models (LLMs)**.
+I’m Jiayi Yuan ([dʒa-ˈi:], 袁加熠), a Ph.D. student from the Department of [Computer Science at Rice University](https://cs.rice.edu/), advised by Dr. [Xia "Ben" Hu](https://cs.rice.edu/~xh37/index.html). My research interests include **efficient and trustworthy machine learning**, and its applications in natural language processing, computer vision, and health informatics. Recently, I have been focusing on **large language models (LLMs)**.
 
 Previously, I received my bachelor’s degree in computer science from [Tsinghua University](https://www.tsinghua.edu.cn/en/), where I also studied statistics as a minor.
 
@@ -38,6 +38,8 @@ Rice University, TX, USA
 Tsinghua University, Beijing, China
 
 ### News
+
+- Feb. 2023: We release 2bit KV cache quantization [KIVI](https://arxiv.org/abs/2402.02750)
 
 - Nov. 2023: Our LLM-PTM paper is selected as a best student paper at AMIA 2023
 
