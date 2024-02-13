@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: WechatIMG198-min.JPG
+  image: WechatIMG198-min.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>Duncan Hall, 3014</p>
