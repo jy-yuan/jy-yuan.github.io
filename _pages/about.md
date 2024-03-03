@@ -39,7 +39,7 @@ Tsinghua University, Beijing, China
 
 ### News
 
-- Feb. 2023: We release 2bit KV cache quantization [KIVI](https://arxiv.org/abs/2402.02750)
+- Feb. 2024: We release 2bit KV cache quantization [KIVI](https://arxiv.org/abs/2402.02750)
 
 - Nov. 2023: Our LLM-PTM paper is selected as a best student paper at AMIA 2023
 

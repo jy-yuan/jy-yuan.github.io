@@ -10,6 +10,8 @@ nav_order: 1
 
 [Google Scholar](https://scholar.google.com/citations?user=XMrlrV8AAAAJ)
 
+$$*$$ equal contribution.
+
 <!-- _pages/publications.md -->
 <div class="publications">
 
@@ -19,5 +21,3 @@ nav_order: 1
 {% endfor %}
 
 </div>
-
-$$*$$ equal contribution.
