@@ -12,7 +12,7 @@ profile:
     <p>Duncan Hall, 3014</p>
     <p>6100 Main St</p>
     <p>Houston, TX, 77005</p>
-    <p>jy101 [at] rice [dot] edu</p>
+    <p>jy101 at rice dot edu</p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -38,7 +38,7 @@ Tsinghua University, Beijing, China
 
 ### News
 
-- Feb. 2024: We release 2bit KV cache quantization [KIVI](https://arxiv.org/abs/2402.02750)
+- Feb. 2024: We release 2bit KV cache quantization [KIVI](https://arxiv.org/abs/2402.02750) ([code](https://github.com/jy-yuan/KIVI))
 
 - Nov. 2023: Our LLM-PTM paper is selected as a best student paper at AMIA 2023
 
