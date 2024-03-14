@@ -9,9 +9,9 @@ profile:
   image: WechatIMG198-min.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Duncan Hall, 3014</p>
+    <p>3014 Duncan Hall</p>
     <p>6100 Main St</p>
-    <p>Houston, TX, 77005</p>
+    <p>Houston, TX 77005</p>
     <p>jy101 at rice dot edu</p>
 
 news: false  # includes a list of news items

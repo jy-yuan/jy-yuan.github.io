@@ -8,6 +8,8 @@ nav: true
 nav_order: 1
 ---
 
+**Publications & Preprints**
+
 [Google Scholar](https://scholar.google.com/citations?user=XMrlrV8AAAAJ)
 
 $$*$$ equal contribution.
