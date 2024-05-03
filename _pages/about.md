@@ -11,7 +11,7 @@ profile:
   address: >
     <p>6100 Main St</p>
     <p>Houston, TX 77005</p>
-    <p>jy101 at rice dot edu</p>
+    <p>jy101 [at] rice.edu</p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -37,6 +37,8 @@ Tsinghua University, Beijing, China
 
 ### News
 
+- May 2024: Two papers accepted by ICML 2024
+
 - Feb. 2024: We release 2-bit KV cache quantization [KIVI](https://arxiv.org/abs/2402.02750) ([code](https://github.com/jy-yuan/KIVI))
 
 - Nov. 2023: Our LLM-PTM paper is selected as a best student paper at AMIA 2023
@@ -55,9 +57,9 @@ Tsinghua University, Beijing, China
 
 <!-- - Feb. 2023: One paper accepted by ICASSP 2023 -->
 
-- Feb. 2023: Two papers accepted by DAC 2023
+<!-- - Feb. 2023: Two papers accepted by DAC 2023 -->
 
-- Jan. 2023: EyeCoD selected as an IEEE Micro Top Pick 2023
+<!-- - Jan. 2023: EyeCoD selected as an IEEE Micro Top Pick 2023 -->
 
 - ...
 
