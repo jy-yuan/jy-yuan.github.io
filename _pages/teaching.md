@@ -18,7 +18,8 @@ Minor in Statistics
 
 ### Internship
 
-* Applied Scientist Intern at Amazon, 2024.
+* Applied Scientist Intern at Amazon.com, Inc., 2024.  
+Topic: LLM Agent for Amazon stores
 
 * Research Engineer Intern at Baidu Inc., 2021.  
 Topic: Fingerprint algorithms on massive multimodal data

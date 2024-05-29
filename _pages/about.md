@@ -37,29 +37,29 @@ Tsinghua University, Beijing, China
 
 ### News
 
-- May 2024: Two papers accepted by ICML 2024
+- Our [KIVI](https://arxiv.org/pdf/2402.02750.pdf) largely inspires the [KV Cache quantization system in Huggingface](https://huggingface.co/docs/transformers/main/en/generation_strategies#kv-cache-quantization). Code is available [here](https://github.com/jy-yuan/KIVI)
 
-- Feb. 2024: We release 2-bit KV cache quantization [KIVI](https://arxiv.org/abs/2402.02750) ([code](https://github.com/jy-yuan/KIVI))
+- Two papers accepted by ICML 2024
 
-- Nov. 2023: Our LLM-PTM paper is selected as a best student paper at AMIA 2023
+- Our LLM-PTM paper is selected as a best student paper at AMIA 2023
 
-- Oct. 2023: [Rice CS' Xia Ben Hu investigates LLMs and likely applications](https://cs.rice.edu/news/rice-cs-xia-ben-hu-investigates-llms-and-likely-applications)
+- [Rice CS' Xia Ben Hu investigates LLMs and likely applications](https://cs.rice.edu/news/rice-cs-xia-ben-hu-investigates-llms-and-likely-applications)
 
-- Sep. 2023: One paper accepted by NeurIPS 2023
+- One paper accepted by NeurIPS 2023
 
-- Sep. 2023: Joined [Microsoft Accelerating Foundation Models Research](https://www.microsoft.com/en-us/research/collaboration/accelerating-foundation-models-research/) program
+- Joined [Microsoft Accelerating Foundation Models Research](https://www.microsoft.com/en-us/research/collaboration/accelerating-foundation-models-research/) program
 
-- Jul. 2023: Two papers accepted by AMIA 2023
+- Two papers accepted by AMIA 2023
 
 <!-- - Jul. 2023: One paper accepted by ACM-BCB 2023 -->
 
-- Mar. 2023: One paper accepted by ISCA 2023
+- One paper accepted by ISCA 2023
 
 <!-- - Feb. 2023: One paper accepted by ICASSP 2023 -->
 
-<!-- - Feb. 2023: Two papers accepted by DAC 2023 -->
+- Two papers accepted by DAC 2023
 
-<!-- - Jan. 2023: EyeCoD selected as an IEEE Micro Top Pick 2023 -->
+- EyeCoD selected as an IEEE Micro Top Pick 2023
 
 - ...
 
