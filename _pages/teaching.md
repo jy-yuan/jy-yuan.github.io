@@ -3,7 +3,7 @@ layout: page
 permalink: /experience/
 title: Experience
 description: 
-nav: false
+nav: true
 nav_order: 2
 ---
 
@@ -33,7 +33,9 @@ COMP 631 Introduction to Information Retrieval, Spring 2024
 COMP 640 Graduate Research Seminar in Machine Learning, Fall 2023
 
 * Teaching Assistant:  
+COMP 556 - Introduction to Computer Networks, Fall 2024  
+COMP 549 - Applied Machine Learning & Data Science Projects, Fall 2024  
 COMP 631 Introduction to Information Retrieval, Spring 2024
 
-* Program Committee Members:  
-ICHI 2023, 2024
+* Reviewers:  
+NeurIPS, ICLR, ARR, AMIA, ICHI, TCDS
