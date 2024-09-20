@@ -37,9 +37,11 @@ Tsinghua University, Beijing, China
 
 ### News
 
+- Two papers accepted by EMNLP 2024. See you in Miami!
+
 - Checkout our recent benchmarking works on [KV Cache compression](https://arxiv.org/abs/2407.01527), [time series foundation models](https://arxiv.org/abs/2406.14045) and [LLM evaluation](https://arxiv.org/abs/2408.13704)!
 
-- Two papers accepted by ICML 2024, see you in Vienna!
+- Two papers accepted by ICML 2024. See you in Vienna!
 
 - Our [KIVI](https://arxiv.org/abs/2402.02750) largely inspires the [KV Cache quantization system in Huggingface](https://huggingface.co/docs/transformers/main/en/generation_strategies#kv-cache-quantization). Code is available [here](https://github.com/jy-yuan/KIVI)
 
