@@ -43,7 +43,7 @@ Tsinghua University, Beijing, China
 
 - Two papers accepted by ICML 2024. See you in Vienna!
 
-- Our [KIVI](https://arxiv.org/abs/2402.02750) largely inspires the [KV Cache quantization system in Huggingface](https://huggingface.co/docs/transformers/main/en/generation_strategies#kv-cache-quantization). Code is available [here](https://github.com/jy-yuan/KIVI)
+- Our [KIVI](https://arxiv.org/abs/2402.02750) largely inspires the [KV Cache quantization system in Huggingface](https://huggingface.co/docs/transformers/main/en/kv_cache). Code is available [here](https://github.com/jy-yuan/KIVI)
 
 - Our LLM-PTM paper is selected as a best student paper at AMIA 2023
 
