@@ -38,4 +38,4 @@ COMP 549 - Applied Machine Learning & Data Science Projects, Fall 2024
 COMP 631 Introduction to Information Retrieval, Spring 2024
 
 * Reviewers:  
-NeurIPS, ICLR, ARR, AMIA, ICHI, TCDS
+NeurIPS, ICLR, ACL, EMNLP, NAACL, AISTATS, AMIA, ICHI, TCDS
