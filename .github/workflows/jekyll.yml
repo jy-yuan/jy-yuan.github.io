@@ -33,18 +33,10 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
-      - name: Install Ruby using ruby-build
-        run: |
-          curl -fsSL https://github.com/rbenv/ruby-build/archive/v20231205.tar.gz -o ruby-build.tar.gz
-          tar -xzvf ruby-build.tar.gz
-          ./ruby-build-20231205/bin/ruby-build 3.1.4 /opt/hostedtoolcache/Ruby/3.1.4/x64
-          touch /opt/hostedtoolcache/Ruby/3.1.4/x64.complete
-        env:
-          RUBY_VERSION: '3.1.4'
       - name: Setup Ruby
         uses: ruby/setup-ruby@55283cc23133118229fd3f97f9336ee23a179fcf # v1.146.0
         with:
-          ruby-version: '3.1' # Not needed with a .ruby-version file
+          ruby-version: '3.3.5' # Not needed with a .ruby-version file
           bundler-cache: true # runs 'bundle install' and caches installed gems automatically
           cache-version: 0 # Increment this number if you need to re-download cached gems
       - name: Setup Pages
