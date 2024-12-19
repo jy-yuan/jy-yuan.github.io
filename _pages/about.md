@@ -27,6 +27,8 @@ Previously, I received my bachelor’s degree in computer science from [Tsinghua
 
 I lived in Beijing for 22 years and in Houston for ``$YEAR-2022`` year~~(~~s~~)~~.
 
+<span style="color:red">*I am actively seeking a research internship for Summer 2025*</span>.
+
 ### Education
 
 * Ph.D. in Computer Science, 2022 - now.
@@ -54,16 +56,6 @@ Tsinghua University, Beijing, China
 - Joined [Microsoft Accelerating Foundation Models Research](https://www.microsoft.com/en-us/research/collaboration/accelerating-foundation-models-research/) program
 
 - Two papers accepted by AMIA 2023
-
-<!-- - Jul. 2023: One paper accepted by ACM-BCB 2023 -->
-
-<!-- - One paper accepted by ISCA 2023 -->
-
-<!-- - Feb. 2023: One paper accepted by ICASSP 2023 -->
-
-<!-- - Two papers accepted by DAC 2023 -->
-
-<!-- - EyeCoD selected as an IEEE Micro Top Pick 2023 -->
 
 - ...
 
