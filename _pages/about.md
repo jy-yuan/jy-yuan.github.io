@@ -27,7 +27,7 @@ Previously, I received my bachelor’s degree in computer science from [Tsinghua
 
 I lived in Beijing for 22 years and in Houston for ``$YEAR-2022`` year~~(~~s~~)~~.
 
-<span style="color:red">*I am actively seeking a research internship for Summer 2025*</span>.
+<span style="color:red">I am actively seeking a research internship position for Summer 2025.</span>
 
 ### Education
 
