@@ -64,5 +64,3 @@ Tsinghua University, Beijing, China
 ### Publications
 
 Please refer to [publications](https://jy-yuan.github.io/publications/) or [Google Scholar](https://scholar.google.com/citations?user=XMrlrV8AAAAJ).
-
-<iframe style="width: 700px;height: 400px;" src="https://www.bilibili.com/blackboard/live/live-activity-player.html?cid=22142427&quality=0" frameborder="no"    framespacing="0" scrolling="no" allow="autoplay; encrypted-media" allowfullscreen="true"></iframe>
