@@ -31,15 +31,23 @@ I lived in Beijing for 22 years and in Houston for ``$YEAR-2022`` year~~(~~s~~)~
 
 ### Education
 
-* Ph.D. in Computer Science, 2022 - now.
-Rice University, TX, USA
+- Ph.D. in Computer Science, 2022 - now. Rice University, Houston, TX
 
-* B.Eng. in Computer Science and Technology, 2017 - 2021.
-Tsinghua University, Beijing, China
+- B.Eng. in Computer Science and Technology, 2017 - 2021. Tsinghua University, Beijing, China
+
+### Highlights
+
+- [KIVI](https://arxiv.org/abs/2402.02750) largely inspires [KV Cache quantization in Huggingface](https://huggingface.co/docs/transformers/main/en/kv_cache#quantized-cache) and is integrated into [Transformers](https://github.com/huggingface/transformers/blob/main/src/transformers/cache_utils.py#L721). Full code is available [here](https://github.com/jy-yuan/KIVI).
+
+- [Rice News](https://cs.rice.edu/news/large-language-models-could-be-key-better-patient-trial-matching): Large language models could be the key to better patient-trial matching - Rice CS Ph.D. student wins AMIA Best Student Paper Award.
+
+- [Rice News](https://cs.rice.edu/news/rice-cs-xia-ben-hu-investigates-llms-and-likely-applications): Rice CS' Xia Ben Hu investigates LLMs and likely applications.
 
 ### News
 
-- Checkout our recent insights and discussions on [LLM evaluation](https://arxiv.org/abs/2502.09670).
+- Checkout our latest survey on [efficient LLM reasoning](https://arxiv.org/abs/2503.16419)! Feel free to [UPVOTE](https://huggingface.co/papers/2503.16419)
+
+- Checkout our recent insights and discussions on [LLM evaluation](https://arxiv.org/abs/2502.09670)
 
 - One paper accepted by NAACL 2025 (Finding). See you in Albuquerque!
 
@@ -49,11 +57,7 @@ Tsinghua University, Beijing, China
 
 - Two papers accepted by ICML 2024. See you in Vienna!
 
-- Our [KIVI](https://arxiv.org/abs/2402.02750) largely inspires the [KV Cache quantization system in Huggingface](https://huggingface.co/docs/transformers/main/en/kv_cache). Code is available [here](https://github.com/jy-yuan/KIVI)
-
 - Our LLM-PTM paper is selected as a best student paper at AMIA 2023
-
-- [Rice CS' Xia Ben Hu investigates LLMs and likely applications](https://cs.rice.edu/news/rice-cs-xia-ben-hu-investigates-llms-and-likely-applications)
 
 - One paper accepted by NeurIPS 2023
 
