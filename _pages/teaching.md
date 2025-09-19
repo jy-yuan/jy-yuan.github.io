@@ -18,8 +18,11 @@ Minor in Statistics
 
 ### Internship
 
+* Deep Learning Intern at NVIDIA, 2025.  
+Topic: Drop-in block sparse attention for LLMs
+
 * Applied Scientist Intern at Amazon.com, Inc., 2024.  
-Topic: LLM Agent for Amazon stores
+Topic: RAG and agent for Amazon stores
 
 * Research Engineer Intern at Baidu Inc., 2021.  
 Topic: Fingerprint algorithms on massive multimodal data
