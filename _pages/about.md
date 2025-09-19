@@ -23,7 +23,7 @@ social: true  # includes social icons at the bottom of the page
 
 I’m Jiayi Yuan ([dʒa-ˈi:], 袁加熠), a Ph.D. candidate from the Department of [Computer Science at Rice University](https://cs.rice.edu/), advised by Dr. [Xia "Ben" Hu](https://cs.rice.edu/~xh37/index.html). I aim to build **efficient machine learning algorithms and systems (MLSys)** through methods like *quantization*, *sparsity* and *re-parameterization* while enhancing system **robustness** and **security**. My research applications span language, vision, time series, graph, and healthcare domains. Recently, I've been working on:
 
-- Efficiency problems of long-context LLMs. [[1]](https://arxiv.org/pdf/2402.02750) [[2]](https://arxiv.org/pdf/2407.01527) [[3]](https://arxiv.org/pdf/2503.16419) [4](https://arxiv.org/pdf/2505.22662)
+- Efficiency problems of long-context LLMs. [[1]](https://arxiv.org/pdf/2402.02750) [[2]](https://arxiv.org/pdf/2407.01527) [[3]](https://arxiv.org/pdf/2503.16419) [[4]](https://arxiv.org/pdf/2505.22662)
 
 - LLM post-training: finetune, RL, and evaluation. [[1]](https://arxiv.org/pdf/2506.09501) [[2]](https://arxiv.org/pdf/2502.09670) [[3]](https://arxiv.org/pdf/2408.13704)
 
@@ -62,8 +62,6 @@ I lived in Beijing for 22 years and in Houston for ``$YEAR-2022`` year~~(~~s~~)~
 - I got three papers at NAACL, ACL, and EMNLP 2025 each, wish I got to visit Albuquerque, Vienna, and Suzhou this year
 
 - One survey on [efficient LLM reasoning](https://arxiv.org/abs/2503.16419) has been accepted by TMLR! Feel free to [UPVOTE](https://huggingface.co/papers/2503.16419)
-
-<!-- - Check out our recent findings on a very important problem in [LLM reproducibility](https://arxiv.org/abs/2506.09501)! [Code](https://github.com/nanomaoli/llm_reproducibility) & [Talk](https://youtu.be/xtzACc7qbyI?si=Y-mYxFlXZ9zcmz6-) -->
 
 - Check out our recent insights and discussions on [LLM evaluation](https://arxiv.org/abs/2502.09670)
 
