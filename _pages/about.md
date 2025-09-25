@@ -23,11 +23,11 @@ social: true  # includes social icons at the bottom of the page
 
 I’m Jiayi Yuan ([dʒa-ˈi:], 袁加熠), a Ph.D. candidate from the Department of [Computer Science at Rice University](https://cs.rice.edu/), advised by Dr. [Xia "Ben" Hu](https://cs.rice.edu/~xh37/index.html). I aim to build **efficient machine learning algorithms and systems (MLSys)** through methods like *quantization*, *sparsity* and *re-parameterization* while enhancing system **robustness** and **security**. My research applications span language, vision, time series, graph, and healthcare domains. Recently, I've been working on:
 
-- Efficiency problems of long-context LLMs. [[1]](https://arxiv.org/pdf/2402.02750) [[2]](https://arxiv.org/pdf/2407.01527) [[3]](https://arxiv.org/pdf/2503.16419) [[4]](https://arxiv.org/pdf/2505.22662)
+- Efficiency problems of long-context LLMs. [[KIVI]](https://arxiv.org/pdf/2402.02750) [[KVBench]](https://arxiv.org/pdf/2407.01527) [[Stop Overthinking]](https://arxiv.org/pdf/2503.16419) [[AutoL2S]](https://arxiv.org/pdf/2505.22662)
 
-- LLM post-training: finetune, RL, and evaluation. [[1]](https://arxiv.org/pdf/2506.09501) [[2]](https://arxiv.org/pdf/2502.09670) [[3]](https://arxiv.org/pdf/2408.13704)
+- LLM post-training: finetune, RL, and evaluation. [[Give Me FP32]](https://arxiv.org/pdf/2506.09501) [[The Science]](https://arxiv.org/pdf/2502.09670) [[DHP]](https://arxiv.org/pdf/2408.13704)
 
-- RAG, LLM safety, LLM Agent, LLM Routing. [[1]](https://arxiv.org/pdf/2310.18633) [[2]](https://arxiv.org/pdf/2406.14045) [[3]](https://arxiv.org/pdf/2410.05331)
+- LLM Agent, LLM Routing, LLM safety. [[Honeypot]](https://arxiv.org/pdf/2310.18633) [[LTSM]](https://arxiv.org/pdf/2406.14045) [[Taylor Unswift]](https://arxiv.org/pdf/2410.05331) [[LoRATK]](https://arxiv.org/pdf/2403.00108)
 
 Previously, I received my bachelor’s degree in computer science from [Tsinghua University](https://www.tsinghua.edu.cn/en/), where I also studied statistics as a minor.
 
