@@ -21,13 +21,13 @@ social: true  # includes social icons at the bottom of the page
 
 ### About me
 
-I’m Jiayi Yuan ([dʒa-ˈi:], 袁加熠), a Ph.D. candidate from the Department of [Computer Science at Rice University](https://cs.rice.edu/), advised by Dr. [Xia "Ben" Hu](https://cs.rice.edu/~xh37/index.html). I aim to build **efficient machine learning algorithms and systems (MLSys)** through methods like *quantization*, *sparsity* and *re-parameterization* while enhancing system **robustness** and **security**. My research applications span language, vision, time series, graph, and healthcare domains. Recently, I've been working on:
+I’m Jiayi Yuan ([dʒa-ˈi:], 袁加熠), I received my Ph.D. degree from the Department of [Computer Science at Rice University](https://cs.rice.edu/), advised by Dr. [Xia "Ben" Hu](https://cs.rice.edu/~xh37/index.html). I aim to build **efficient machine learning algorithms and systems (MLSys)** through methods like *quantization*, *sparsity* and *re-parameterization* while enhancing system **robustness** and **security**. My research applications span language, vision, time series, graph, and healthcare domains. Recently, I've been working on:
 
-- Efficiency problems of long-context LLMs. [[KIVI]](https://arxiv.org/pdf/2402.02750) [[KVBench]](https://arxiv.org/pdf/2407.01527) [[Stop Overthinking]](https://arxiv.org/pdf/2503.16419) [[AutoL2S]](https://arxiv.org/pdf/2505.22662)
+- Efficiency problems of long-context LLMs. [[BLASST]](https://arxiv.org/pdf/2512.12087) [[KIVI]](https://arxiv.org/pdf/2402.02750) [[KVBench]](https://arxiv.org/pdf/2407.01527) [[Stop Overthinking]](https://arxiv.org/pdf/2503.16419) [[AutoL2S]](https://arxiv.org/pdf/2505.22662)
 
 - LLM post-training: finetune, RL, and evaluation. [[Give Me FP32]](https://arxiv.org/pdf/2506.09501) [[The Science]](https://arxiv.org/pdf/2502.09670) [[DHP]](https://arxiv.org/pdf/2408.13704)
 
-- LLM Agent, LLM Routing, LLM safety. [[Honeypot]](https://arxiv.org/pdf/2310.18633) [[LTSM]](https://arxiv.org/pdf/2406.14045) [[Taylor Unswift]](https://arxiv.org/pdf/2410.05331) [[LoRATK]](https://arxiv.org/pdf/2403.00108)
+- LLM Agent, LLM Routing, LLM safety. [[Honeypot]](https://arxiv.org/pdf/2310.18633) [[Rethink Router]](https://openreview.net/pdf?id=EEPostHMtF) [[RouterArena]](https://arxiv.org/pdf/2510.00202) [[Taylor Unswift]](https://arxiv.org/pdf/2410.05331) [[LoRATK]](https://arxiv.org/pdf/2403.00108)
 
 Previously, I received my bachelor’s degree in computer science from [Tsinghua University](https://www.tsinghua.edu.cn/en/), where I also studied statistics as a minor.
 
@@ -41,7 +41,7 @@ I lived in Beijing for 22 years and in Houston for ``$YEAR-2022`` year~~(~~s~~)~
 
 - Internship, 2024, Amazon
 
-- Ph.D. in Computer Science, 2022 - 2026 (expected). Rice University
+- Ph.D. in Computer Science, 2022 - 2025. Rice University
 
 - B.Eng. in Computer Science and Technology, 2017 - 2021. Tsinghua University
 
