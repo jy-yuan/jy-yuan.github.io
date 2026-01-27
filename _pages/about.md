@@ -57,6 +57,8 @@ I lived in Beijing for 22 years and in Houston for 4 years.
 
 ### News
 
+- [BLASST](https://arxiv.org/abs/2512.12087) accepted by MLSys 2026 and [RouterArena](https://arxiv.org/pdf/2510.00202) accepted by ICLR 2026, good ending
+
 - ["Give Me FP32 or Give Me Death"](https://arxiv.org/abs/2506.09501) got accepted to NeurIPS 2025 as an **Oral** (77 out of 21575 submissions) — numerical precision errors have become a hot topic! [Code](https://github.com/nanomaoli/llm_reproducibility) & [Talk](https://youtu.be/xtzACc7qbyI?si=Y-mYxFlXZ9zcmz6-)
 
 - I got three papers at NAACL, ACL, and EMNLP 2025 each, wish I got to visit Albuquerque, Vienna, and Suzhou this year
