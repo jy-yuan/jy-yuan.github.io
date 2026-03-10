@@ -19,6 +19,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
+I write efficient code at xAI.
+
 ### About me
 
 I’m Jiayi Yuan ([dʒa-ˈi:], 袁加熠), I received my Ph.D. degree from the Department of [Computer Science at Rice University](https://cs.rice.edu/), advised by Dr. [Xia "Ben" Hu](https://cs.rice.edu/~xh37/index.html). I aim to build **efficient machine learning algorithms and systems (MLSys)** through methods like *quantization*, *sparsity* and *re-parameterization* while enhancing system **robustness** and **security**. My research applications span language, vision, time series, graph, and healthcare domains. Previously, I worked on:
