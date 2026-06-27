@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Jiayi Yuan — efficient machine learning algorithms and systems.">
+  <meta name="google-site-verification" content="75nWNskIYjZGej0QRTmpUQqSPLwKAAM3MzCh2lQEz6c">
+  <title>Jiayi Yuan</title>
+  <style>
+    :root {
+      color-scheme: light dark;
+      --text: #1a1a1a;
+      --muted: #555;
+      --link: #0550ae;
+      --border: #d8d8d8;
+      --bg: #ffffff;
+    }
+
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --text: #f0f0f0;
+        --muted: #b0b0b0;
+        --link: #79b8ff;
+        --border: #3d3d3d;
+        --bg: #0d1117;
+      }
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      font: 17px/1.7 -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+      color: var(--text);
+      background: var(--bg);
+    }
+
+    main {
+      max-width: 720px;
+      margin: 0 auto;
+      padding: 3rem 1.5rem 4rem;
+    }
+
+    h1 {
+      font-size: 2rem;
+      line-height: 1.2;
+      margin: 0 0 1.5rem;
+      font-weight: 700;
+    }
+
+    h3 {
+      font-size: 1.125rem;
+      line-height: 1.4;
+      margin: 2.25rem 0 0.75rem;
+      font-weight: 600;
+    }
+
+    p {
+      margin: 0 0 1rem;
+    }
+
+    ul {
+      margin: 0 0 1rem;
+      padding-left: 1.4rem;
+    }
+
+    li + li {
+      margin-top: 0.5rem;
+    }
+
+    a {
+      color: var(--link);
+      text-decoration-thickness: 1px;
+      text-underline-offset: 2px;
+    }
+
+    a:hover {
+      text-decoration: none;
+    }
+
+    .social {
+      margin-top: 2.5rem;
+      padding-top: 1.5rem;
+      border-top: 1px solid var(--border);
+    }
+
+    .social-links {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.75rem 1.25rem;
+      font-size: 0.95rem;
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <h1>Jiayi Yuan</h1>
+
+    <p>I write efficient code at xAI.</p>
+
+    <h3>About me</h3>
+    <p>
+      I’m Jiayi Yuan ([dʒa-ˈi:], 袁加熠), I received my Ph.D. degree from the Department of
+      <a href="https://cs.rice.edu/">Computer Science at Rice University</a>, advised by Dr.
+      <a href="https://cs.rice.edu/~xh37/index.html">Xia "Ben" Hu</a>. I aim to build
+      <strong>efficient machine learning algorithms and systems (MLSys)</strong> through methods like
+      <em>quantization</em>, <em>sparsity</em> and <em>re-parameterization</em> while enhancing system
+      <strong>robustness</strong> and <strong>security</strong>. My research applications span language, vision, time series, graph, and healthcare domains. Previously, I worked on:
+    </p>
+    <ul>
+      <li>
+        Efficiency problems of long-context LLMs.
+        <a href="https://arxiv.org/pdf/2512.12087">[BLASST]</a>
+        <a href="https://arxiv.org/pdf/2402.02750">[KIVI]</a>
+        <a href="https://arxiv.org/pdf/2407.01527">[KVBench]</a>
+        <a href="https://arxiv.org/pdf/2503.16419">[Stop Overthinking]</a>
+        <a href="https://arxiv.org/pdf/2505.22662">[AutoL2S]</a>
+      </li>
+      <li>
+        LLM post-training: finetune, RL, and evaluation.
+        <a href="https://arxiv.org/pdf/2506.09501">[Give Me FP32]</a>
+        <a href="https://arxiv.org/pdf/2502.09670">[The Science]</a>
+        <a href="https://arxiv.org/pdf/2408.13704">[DHP]</a>
+      </li>
+      <li>
+        LLM Agent, LLM Routing, LLM safety.
+        <a href="https://arxiv.org/pdf/2310.18633">[Honeypot]</a>
+        <a href="https://openreview.net/pdf?id=EEPostHMtF">[Rethink Router]</a>
+        <a href="https://arxiv.org/pdf/2510.00202">[RouterArena]</a>
+        <a href="https://arxiv.org/pdf/2410.05331">[Taylor Unswift]</a>
+        <a href="https://arxiv.org/pdf/2403.00108">[LoRATK]</a>
+      </li>
+    </ul>
+    <p>
+      Earlier, I received my bachelor’s degree in computer science from
+      <a href="https://www.tsinghua.edu.cn/en/">Tsinghua University</a>, where I also studied statistics as a minor.
+    </p>
+    <p>I lived in Beijing for 22 years and in Houston for 4 years.</p>
+
+    <h3>Education &amp; Experience</h3>
+    <ul>
+      <li>Internship, 2025, NVIDIA</li>
+      <li>Internship, 2024, Amazon</li>
+      <li>Ph.D. in Computer Science, 2022 - 2025. Rice University</li>
+      <li>B.Eng. in Computer Science and Technology, 2017 - 2021. Tsinghua University</li>
+    </ul>
+
+    <h3>Highlights</h3>
+    <ul>
+      <li>
+        <a href="https://arxiv.org/abs/2512.12087">BLASST</a> has been integrated into
+        <a href="https://github.com/bobboli/TensorRT-LLM/blob/user/lbo/skip_softmax_blog/docs/source/blogs/tech_blog/blog16_Accelerating_Long_Context_Inference_with_Skip_Softmax.md">TensorRT-LLM</a>
+        and
+        <a href="https://github.com/NVIDIA/Model-Optimizer/blob/main/modelopt/torch/sparsity/attention_sparsity/sparse_attention.py">NVIDIA Model Optimizer</a>.
+      </li>
+      <li>
+        <a href="https://arxiv.org/abs/2506.09501">"Give me FP32"</a> studies nondeterminism, which has become a heated topic; e.g., it was recently featured in a
+        <a href="https://thinkingmachines.ai/blog/defeating-nondeterminism-in-llm-inference/">blog post</a> by Thinking Machines Lab.
+      </li>
+      <li>
+        <a href="https://arxiv.org/abs/2402.02750">KIVI</a> largely inspires
+        <a href="https://huggingface.co/docs/transformers/v4.49.0/en/kv_cache#quantized-cache">KV Cache quantization in Huggingface</a>
+        and is integrated into
+        <a href="https://github.com/huggingface/transformers/blob/main/src/transformers/cache_utils.py">Transformers</a>.
+        Full code is available <a href="https://github.com/jy-yuan/KIVI">here</a>.
+      </li>
+      <li>
+        <a href="https://cs.rice.edu/news/large-language-models-could-be-key-better-patient-trial-matching">Rice News</a>:
+        Large language models could be the key to better patient-trial matching - Rice CS Ph.D. student wins AMIA Best Student Paper Award.
+      </li>
+      <li>
+        <a href="https://cs.rice.edu/news/rice-cs-xia-ben-hu-investigates-llms-and-likely-applications">Rice News</a>:
+        Rice CS' Xia Ben Hu investigates LLMs and likely applications.
+      </li>
+    </ul>
+
+    <h3>News</h3>
+    <ul>
+      <li>
+        <a href="https://arxiv.org/abs/2512.12087">BLASST</a> accepted by MLSys 2026 and
+        <a href="https://arxiv.org/pdf/2510.00202">RouterArena</a> accepted by ICLR 2026, good ending
+      </li>
+      <li>
+        <a href="https://arxiv.org/abs/2506.09501">"Give Me FP32 or Give Me Death"</a> got accepted to NeurIPS 2025 as an
+        <strong>Oral</strong> (77 out of 21575 submissions) — numerical precision errors have become a hot topic!
+        <a href="https://github.com/nanomaoli/llm_reproducibility">Code</a> &amp;
+        <a href="https://youtu.be/xtzACc7qbyI?si=Y-mYxFlXZ9zcmz6-">Talk</a>
+      </li>
+      <li>I got three papers at NAACL, ACL, and EMNLP 2025 each, wish I got to visit Albuquerque, Vienna, and Suzhou this year</li>
+      <li>
+        One survey on <a href="https://arxiv.org/abs/2503.16419">efficient LLM reasoning</a> has been accepted by TMLR!
+        Feel free to <a href="https://huggingface.co/papers/2503.16419">UPVOTE</a>
+      </li>
+      <li>Check out our recent insights and discussions on <a href="https://arxiv.org/abs/2502.09670">LLM evaluation</a></li>
+      <li>Two papers accepted by EMNLP 2024 (Main + Finding). See you in Miami!</li>
+      <li>
+        Check out our recent benchmarking works on
+        <a href="https://arxiv.org/abs/2407.01527">KV Cache compression</a>,
+        <a href="https://arxiv.org/abs/2406.14045">time series foundation models</a> and
+        <a href="https://arxiv.org/abs/2408.13704">LLM evaluation</a>!
+      </li>
+      <li>KIVI and SEED-GNN got accepted by ICML 2024. See you in Vienna!</li>
+      <li>Our LLM-PTM paper is selected as a best student paper at AMIA 2023</li>
+      <li>One paper accepted by NeurIPS 2023</li>
+      <li>
+        Joined
+        <a href="https://www.microsoft.com/en-us/research/collaboration/accelerating-foundation-models-research/">Microsoft Accelerating Foundation Models Research</a>
+        program
+      </li>
+      <li>...</li>
+    </ul>
+
+    <div class="social">
+      <div class="social-links">
+        <a href="mailto:jy101@rice.edu">Email</a>
+        <a href="https://scholar.google.com/citations?user=XMrlrV8AAAAJ">Google Scholar</a>
+        <a href="https://github.com/jy-yuan">GitHub</a>
+        <a href="https://www.linkedin.com/in/jyuan99">LinkedIn</a>
+        <a href="https://x.com/jiayiy">X</a>
+      </div>
+    </div>
+  </main>
+</body>
+</html>
